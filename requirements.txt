@@ -3,4 +3,3 @@ pandas
 json5
 matplotlib 
 requests
-locale
